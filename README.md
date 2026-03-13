@@ -25,11 +25,11 @@ Este repositório contém o código-fonte de uma landing page inspirada no jogo 
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/gustvoamaral/projeto-gta.git
    ```
 2. Acesse a pasta do projeto:
    ```sh
-   cd nome-do-repositorio
+   cd projeto-gta
    ```
 
 
